@@ -1,0 +1,15 @@
+/home/tom/Documentos/Curso_net/Curso_net/tarea1/bin/Debug/net8.0/tarea1
+/home/tom/Documentos/Curso_net/Curso_net/tarea1/bin/Debug/net8.0/tarea1.deps.json
+/home/tom/Documentos/Curso_net/Curso_net/tarea1/bin/Debug/net8.0/tarea1.runtimeconfig.json
+/home/tom/Documentos/Curso_net/Curso_net/tarea1/bin/Debug/net8.0/tarea1.dll
+/home/tom/Documentos/Curso_net/Curso_net/tarea1/bin/Debug/net8.0/tarea1.pdb
+/home/tom/Documentos/Curso_net/Curso_net/tarea1/obj/Debug/net8.0/tarea1.GeneratedMSBuildEditorConfig.editorconfig
+/home/tom/Documentos/Curso_net/Curso_net/tarea1/obj/Debug/net8.0/tarea1.AssemblyInfoInputs.cache
+/home/tom/Documentos/Curso_net/Curso_net/tarea1/obj/Debug/net8.0/tarea1.AssemblyInfo.cs
+/home/tom/Documentos/Curso_net/Curso_net/tarea1/obj/Debug/net8.0/tarea1.csproj.CoreCompileInputs.cache
+/home/tom/Documentos/Curso_net/Curso_net/tarea1/obj/Debug/net8.0/tarea1.sourcelink.json
+/home/tom/Documentos/Curso_net/Curso_net/tarea1/obj/Debug/net8.0/tarea1.dll
+/home/tom/Documentos/Curso_net/Curso_net/tarea1/obj/Debug/net8.0/refint/tarea1.dll
+/home/tom/Documentos/Curso_net/Curso_net/tarea1/obj/Debug/net8.0/tarea1.pdb
+/home/tom/Documentos/Curso_net/Curso_net/tarea1/obj/Debug/net8.0/tarea1.genruntimeconfig.cache
+/home/tom/Documentos/Curso_net/Curso_net/tarea1/obj/Debug/net8.0/ref/tarea1.dll
