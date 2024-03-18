@@ -1,0 +1,14 @@
+/home/tom/Documentos/Curso_net/HolaMundo/bin/Debug/net8.0/HolaMundo
+/home/tom/Documentos/Curso_net/HolaMundo/bin/Debug/net8.0/HolaMundo.deps.json
+/home/tom/Documentos/Curso_net/HolaMundo/bin/Debug/net8.0/HolaMundo.runtimeconfig.json
+/home/tom/Documentos/Curso_net/HolaMundo/bin/Debug/net8.0/HolaMundo.dll
+/home/tom/Documentos/Curso_net/HolaMundo/bin/Debug/net8.0/HolaMundo.pdb
+/home/tom/Documentos/Curso_net/HolaMundo/obj/Debug/net8.0/HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+/home/tom/Documentos/Curso_net/HolaMundo/obj/Debug/net8.0/HolaMundo.AssemblyInfoInputs.cache
+/home/tom/Documentos/Curso_net/HolaMundo/obj/Debug/net8.0/HolaMundo.AssemblyInfo.cs
+/home/tom/Documentos/Curso_net/HolaMundo/obj/Debug/net8.0/HolaMundo.csproj.CoreCompileInputs.cache
+/home/tom/Documentos/Curso_net/HolaMundo/obj/Debug/net8.0/HolaMundo.dll
+/home/tom/Documentos/Curso_net/HolaMundo/obj/Debug/net8.0/refint/HolaMundo.dll
+/home/tom/Documentos/Curso_net/HolaMundo/obj/Debug/net8.0/HolaMundo.pdb
+/home/tom/Documentos/Curso_net/HolaMundo/obj/Debug/net8.0/HolaMundo.genruntimeconfig.cache
+/home/tom/Documentos/Curso_net/HolaMundo/obj/Debug/net8.0/ref/HolaMundo.dll

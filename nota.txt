@@ -1,0 +1,2 @@
+Para crear un proyecto: donet new list
+luego elegimos lo que queremos hacer 
