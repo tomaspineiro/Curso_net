@@ -1,0 +1,15 @@
+/home/tom/Documentos/Curso_net/Curso_net/Seccion2/bin/Debug/net8.0/Seccion2
+/home/tom/Documentos/Curso_net/Curso_net/Seccion2/bin/Debug/net8.0/Seccion2.deps.json
+/home/tom/Documentos/Curso_net/Curso_net/Seccion2/bin/Debug/net8.0/Seccion2.runtimeconfig.json
+/home/tom/Documentos/Curso_net/Curso_net/Seccion2/bin/Debug/net8.0/Seccion2.dll
+/home/tom/Documentos/Curso_net/Curso_net/Seccion2/bin/Debug/net8.0/Seccion2.pdb
+/home/tom/Documentos/Curso_net/Curso_net/Seccion2/obj/Debug/net8.0/Seccion2.GeneratedMSBuildEditorConfig.editorconfig
+/home/tom/Documentos/Curso_net/Curso_net/Seccion2/obj/Debug/net8.0/Seccion2.AssemblyInfoInputs.cache
+/home/tom/Documentos/Curso_net/Curso_net/Seccion2/obj/Debug/net8.0/Seccion2.AssemblyInfo.cs
+/home/tom/Documentos/Curso_net/Curso_net/Seccion2/obj/Debug/net8.0/Seccion2.csproj.CoreCompileInputs.cache
+/home/tom/Documentos/Curso_net/Curso_net/Seccion2/obj/Debug/net8.0/Seccion2.sourcelink.json
+/home/tom/Documentos/Curso_net/Curso_net/Seccion2/obj/Debug/net8.0/Seccion2.dll
+/home/tom/Documentos/Curso_net/Curso_net/Seccion2/obj/Debug/net8.0/refint/Seccion2.dll
+/home/tom/Documentos/Curso_net/Curso_net/Seccion2/obj/Debug/net8.0/Seccion2.pdb
+/home/tom/Documentos/Curso_net/Curso_net/Seccion2/obj/Debug/net8.0/Seccion2.genruntimeconfig.cache
+/home/tom/Documentos/Curso_net/Curso_net/Seccion2/obj/Debug/net8.0/ref/Seccion2.dll
