@@ -1,0 +1,15 @@
+/home/tom/Documentos/Curso_net/Curso_net/Seccion3/obj/Debug/net8.0/Seccion3.GeneratedMSBuildEditorConfig.editorconfig
+/home/tom/Documentos/Curso_net/Curso_net/Seccion3/obj/Debug/net8.0/Seccion3.AssemblyInfoInputs.cache
+/home/tom/Documentos/Curso_net/Curso_net/Seccion3/obj/Debug/net8.0/Seccion3.AssemblyInfo.cs
+/home/tom/Documentos/Curso_net/Curso_net/Seccion3/obj/Debug/net8.0/Seccion3.csproj.CoreCompileInputs.cache
+/home/tom/Documentos/Curso_net/Curso_net/Seccion3/obj/Debug/net8.0/Seccion3.sourcelink.json
+/home/tom/Documentos/Curso_net/Curso_net/Seccion3/bin/Debug/net8.0/Seccion3
+/home/tom/Documentos/Curso_net/Curso_net/Seccion3/bin/Debug/net8.0/Seccion3.deps.json
+/home/tom/Documentos/Curso_net/Curso_net/Seccion3/bin/Debug/net8.0/Seccion3.runtimeconfig.json
+/home/tom/Documentos/Curso_net/Curso_net/Seccion3/bin/Debug/net8.0/Seccion3.dll
+/home/tom/Documentos/Curso_net/Curso_net/Seccion3/bin/Debug/net8.0/Seccion3.pdb
+/home/tom/Documentos/Curso_net/Curso_net/Seccion3/obj/Debug/net8.0/Seccion3.dll
+/home/tom/Documentos/Curso_net/Curso_net/Seccion3/obj/Debug/net8.0/refint/Seccion3.dll
+/home/tom/Documentos/Curso_net/Curso_net/Seccion3/obj/Debug/net8.0/Seccion3.pdb
+/home/tom/Documentos/Curso_net/Curso_net/Seccion3/obj/Debug/net8.0/Seccion3.genruntimeconfig.cache
+/home/tom/Documentos/Curso_net/Curso_net/Seccion3/obj/Debug/net8.0/ref/Seccion3.dll
