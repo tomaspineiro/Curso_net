@@ -1,0 +1,15 @@
+/home/tom/Documentos/Curso_net/Curso_net/Seccion5/bin/Debug/net8.0/Seccion5
+/home/tom/Documentos/Curso_net/Curso_net/Seccion5/bin/Debug/net8.0/Seccion5.deps.json
+/home/tom/Documentos/Curso_net/Curso_net/Seccion5/bin/Debug/net8.0/Seccion5.runtimeconfig.json
+/home/tom/Documentos/Curso_net/Curso_net/Seccion5/bin/Debug/net8.0/Seccion5.dll
+/home/tom/Documentos/Curso_net/Curso_net/Seccion5/bin/Debug/net8.0/Seccion5.pdb
+/home/tom/Documentos/Curso_net/Curso_net/Seccion5/obj/Debug/net8.0/Seccion5.GeneratedMSBuildEditorConfig.editorconfig
+/home/tom/Documentos/Curso_net/Curso_net/Seccion5/obj/Debug/net8.0/Seccion5.AssemblyInfoInputs.cache
+/home/tom/Documentos/Curso_net/Curso_net/Seccion5/obj/Debug/net8.0/Seccion5.AssemblyInfo.cs
+/home/tom/Documentos/Curso_net/Curso_net/Seccion5/obj/Debug/net8.0/Seccion5.csproj.CoreCompileInputs.cache
+/home/tom/Documentos/Curso_net/Curso_net/Seccion5/obj/Debug/net8.0/Seccion5.sourcelink.json
+/home/tom/Documentos/Curso_net/Curso_net/Seccion5/obj/Debug/net8.0/Seccion5.dll
+/home/tom/Documentos/Curso_net/Curso_net/Seccion5/obj/Debug/net8.0/refint/Seccion5.dll
+/home/tom/Documentos/Curso_net/Curso_net/Seccion5/obj/Debug/net8.0/Seccion5.pdb
+/home/tom/Documentos/Curso_net/Curso_net/Seccion5/obj/Debug/net8.0/Seccion5.genruntimeconfig.cache
+/home/tom/Documentos/Curso_net/Curso_net/Seccion5/obj/Debug/net8.0/ref/Seccion5.dll
